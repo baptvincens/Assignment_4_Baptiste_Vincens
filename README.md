@@ -16,4 +16,4 @@ The code consists of two Matlab files (one function and one "main" file to call 
 
 ## Getting started
 
-Running this code requires Matlab. The script should be run from the "main" file to plot the graphs. The variables in the "main" file (files to read, number of subdivisons of the field, pixel size) can be changed.
+Running this code requires Matlab version R2019b. The script should be run from the "main" file to plot the graphs. The variables in the "main" file (files to read, number of subdivisons of the field, pixel size) can be changed.
